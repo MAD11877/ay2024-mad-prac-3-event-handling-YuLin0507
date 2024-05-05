@@ -1,0 +1,10 @@
+#Mon May 06 00:31:13 SGT 2024
+base.0=C\:\\Users\\yulin\\OneDrive - Ngee Ann Polytechnic\\NP\\semester 3 2024\\MAD\\ay2024-mad-prac-3-event-handling-YuLin0507\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\yulin\\OneDrive - Ngee Ann Polytechnic\\NP\\semester 3 2024\\MAD\\ay2024-mad-prac-3-event-handling-YuLin0507\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\yulin\\OneDrive - Ngee Ann Polytechnic\\NP\\semester 3 2024\\MAD\\ay2024-mad-prac-3-event-handling-YuLin0507\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=2/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
