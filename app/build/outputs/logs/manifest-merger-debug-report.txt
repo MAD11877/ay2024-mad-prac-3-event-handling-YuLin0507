@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:2:1-38:12
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\yulin\.gradle\caches\transforms-3\d992937e7b52743c834b79a00e6082a4\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\yulin\.gradle\caches\transforms-3\e2c6ce80458a3d0b2bbed601c957d0e9\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\yulin\.gradle\caches\transforms-3\0ef9046d9f83a4eb3826b3940db4bec2\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -56,8 +56,8 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\yulin\.
 	xmlns:android
 		ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:5:5-33:19
-INJECTED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:5:5-33:19
+ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:5:5-36:19
+INJECTED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:5:5-36:19
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\yulin\.gradle\caches\transforms-3\d992937e7b52743c834b79a00e6082a4\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\yulin\.gradle\caches\transforms-3\d992937e7b52743c834b79a00e6082a4\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\yulin\.gradle\caches\transforms-3\e2c6ce80458a3d0b2bbed601c957d0e9\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -96,28 +96,34 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yu
 		ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:13:9-43
 	android:dataExtractionRules
 		ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:7:9-65
-activity#sg.edu.np.mad.madpractical3.ListActivity
-ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:15:9-23:20
+activity#sg.edu.np.mad.madpractical3.MessageGroup
+ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
-		ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:17:13-36
+		ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
 		ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:16:13-41
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:18:13-22:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:19:17-69
-	android:name
-		ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:19:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:21:17-77
-	android:name
-		ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:21:27-74
-activity#sg.edu.np.mad.madpractical3.MainActivity
-ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:24:9-32:20
+activity#sg.edu.np.mad.madpractical3.ListActivity
+ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:18:9-26:20
 	android:exported
-		ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:26:13-36
+		ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:20:13-36
 	android:name
-		ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:25:13-41
+		ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:24:27-74
+activity#sg.edu.np.mad.madpractical3.MainActivity
+ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:exported
+		ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml:28:13-41
 uses-sdk
 INJECTED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\yulin\OneDrive - Ngee Ann Polytechnic\NP\semester 3 2024\MAD\ay2024-mad-prac-3-event-handling-YuLin0507\app\src\main\AndroidManifest.xml

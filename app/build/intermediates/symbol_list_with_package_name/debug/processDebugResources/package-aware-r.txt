@@ -3169,6 +3169,8 @@ id bounceEnd
 id bounceStart
 id button
 id button2
+id button3
+id button4
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3688,6 +3690,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_list
 layout activity_main
+layout activity_message_group
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

@@ -1,7 +1,9 @@
 package sg.edu.np.mad.madpractical3;
 
 import android.annotation.SuppressLint;
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -36,12 +38,14 @@ public class MainActivity extends AppCompatActivity {
         TextView tvName = findViewById(R.id.textView4);
         TextView tvDescription = findViewById(R.id.textView3);
         Button btnFollow = findViewById(R.id.button2);
+        Button btnMessage = findViewById(R.id.button); // Assuming the ID of the "Message" button is button
 
         // Set the text view with the user's name, description, and default button message
-        tvName.setText(user.name +" "+ randomNumber);
+        tvName.setText(user.name + " " + randomNumber);
         tvDescription.setText(user.description);
         btnFollow.setText("Follow");
 
+        // Set OnClickListener for the "Follow" button
         btnFollow.setOnClickListener(view -> {
             String message;
             if (user.followed) {
@@ -57,4 +61,13 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(getApplicationContext(), message, Toast.LENGTH_SHORT).show();
         });
     }
+
+    // Method to handle the click event of the "Message" button
+    public void sendMessage(View view) {
+        // Create an Intent to launch the MessageGroup activity
+        Intent intent = new Intent(MainActivity.this, MessageGroup.class);
+        startActivity(intent);
+    }
 }
+
+

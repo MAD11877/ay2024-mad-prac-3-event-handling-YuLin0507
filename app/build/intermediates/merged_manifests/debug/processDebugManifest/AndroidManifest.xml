@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Week3" >
         <activity
+            android:name="sg.edu.np.mad.madpractical3.MessageGroup"
+            android:exported="false" />
+        <activity
             android:name="sg.edu.np.mad.madpractical3.ListActivity"
             android:exported="true" >
             <intent-filter>
