@@ -10,6 +10,7 @@ id button3
 id button4
 id imageView
 id imageView3
+id imageView4
 id main
 id textView
 id textView3
@@ -18,9 +19,12 @@ id toastMessage
 layout activity_list
 layout activity_main
 layout activity_message_group
+layout fragment_1
+layout fragment_2
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string hello_blank_fragment
 style Base.Theme.Week3
 style Theme.Week3
 xml backup_rules
